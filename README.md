@@ -106,7 +106,11 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Books/blob/master/mth(27).pdf" style="text-decoration:none;">Text Book Of Trigonometry, Vector Calculus And Analytical Geometry </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Books/blob/master/mth(63).rar" style="text-decoration:none;">Additional Mathematics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Books/blob/master/mth(65).pdf" style="text-decoration:none;">Mathematical Structures for Computer Science: Discrete Mathematics And Its Applications</a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Books/blob/master/mth(66).pdf" style="text-decoration:none;">Bridge to Abstract Mathematics: Mathematical Proof and Structures  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Books/blob/master/mth(68).pdf" style="text-decoration:none;">41 Years (1978-2018) JEE Advanced (IIT-JEE) + 17 yrs JEE Main (2002-2018) Topic-wise Solved Paper Mathematics  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Books/blob/master/mth(69).pdf" style="text-decoration:none;">50 mathematical ideas you really need to know </a></b></li>
 
 </ul>
