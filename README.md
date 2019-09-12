@@ -2,36 +2,34 @@
 
                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(1).pdf" style="text-decoration:none;">History of Civilizations of Central Asia </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(1).pdf" style="text-decoration:none;">Schaum's Outline of Theory and Problems of Beginning Calculus </a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(2).pdf" style="text-decoration:none;">The Secret History of The World and How To Get Out Alive</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(2).pdf" style="text-decoration:none;">Mathematics for the International Student: Mathematics HL (Core)</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(3).pdf" style="text-decoration:none;">The Decisive Battles of World History </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(4).pdf" style="text-decoration:none;">The ancient history of china</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(5).PDF" style="text-decoration:none;">Encyclopedia of the Ottoman Empire</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(6).pdf" style="text-decoration:none;">Historical Geography</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(7).pdf" style="text-decoration:none;">A History of the World: From the 20th to the 21st Century</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(3).pdf" style="text-decoration:none;">Core Mathematics for A Level </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(4).pdf" style="text-decoration:none;">Schaum's Outline of Theory and Problems of Differential and Integral Calculus</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(5).pdf" style="text-decoration:none;">Higher Engineering Mathematics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(6).pdf" style="text-decoration:none;">Mathematics Higher Level Core</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(7).pdf" style="text-decoration:none;">Mathematics in English - Grade 7</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(8).pdf" style="text-decoration:none;"> Encyclopedia of Ancient Natural Scientists: The Greek Tradition and Its Many Heirs </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(9).pdf" style="text-decoration:none;">Destiny Disrupted: A History of the World Through Islamic Eyes</a></b></li>                             
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(10).pdf" style="text-decoration:none;">A Brief History of Ancient Greece: Politics, Society, and Culture </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(11).pdf" style="text-decoration:none;">A Brief History of Saudi Arabia</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(12).pdf" style="text-decoration:none;">The Ancient Egyptians For Dummies</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(13).pdf" style="text-decoration:none;">Legacy of Ashes: The History of the CIA</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(8).pdf" style="text-decoration:none;"> Basic Mathematics for College Students </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(9).pdf" style="text-decoration:none;">Mathematics, Basic Math and Algebra</a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(10).pdf" style="text-decoration:none;">Mathematical Puzzles and Diversions </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(11).pdf" style="text-decoration:none;">High-Speed Math </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(12).pdf" style="text-decoration:none;">IGCSE Cambridge International Mathematics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(13).pdf" style="text-decoration:none;">Pure Mathematics 1</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(14).pdf" style="text-decoration:none;">The Ottoman Empire and the World Around it</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(15).pdf" style="text-decoration:none;">The Dictionary of Human Geography</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(14).pdf" style="text-decoration:none;">Math Curriculum with correlation to the Learning Standards Grade 3 - 5</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(15).pdf" style="text-decoration:none;">Mathematical Methods for Physics and Engineering</a></b></li>
 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(16).pdf" style="text-decoration:none;">Sapiens: A Brief History of Humankind</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(16).pdf" style="text-decoration:none;">Schaum's outline of theory and problems of beginning statistics</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(18).pdf" style="text-decoration:none;">Just the Maths</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(19).pdf" style="text-decoration:none;">Gruber's Complete SAT Math Workbook</a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(17).pdf" style="text-decoration:none;">A Companion to Ancient History</a></b></li>   
-  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(18).pdf" style="text-decoration:none;">The Oxford History of World Cinema</a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(19).pdf" style="text-decoration:none;">The History of Mathematical Proof in Ancient Traditions</a></b></li> 
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(20).pdf" style="text-decoration:none;">Big History: The Big Bang, Life on Earth, and the Rise of Humanity </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(20).pdf" style="text-decoration:none;">Extended Mathematics for IGCSE </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(21).pdf" style="text-decoration:none;">The Cambridge History of Christianity, Volume 1: Origins to Constantine</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(22).pdf" style="text-decoration:none;">A History of Western Philosophy, and Its Connection with Political and Social Circumstances from the Earliest Times to the Present Day</a></b></li> 
