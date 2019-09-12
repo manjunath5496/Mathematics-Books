@@ -99,7 +99,11 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Books/blob/master/mth(67).pdf" style="text-decoration:none;">Scilab Textbook Companion for Higher Engineering Mathematics </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Books/blob/master/mth(57).pdf" style="text-decoration:none;">The Mathematics of Financial Modeling and Investment Management </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Books/blob/master/mth(42).pdf" style="text-decoration:none;">Mathematical Statistics with Applications</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Books/blob/master/mth(17).pdf" style="text-decoration:none;">Number Theory: An Introduction to Mathematics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Books/blob/master/mth(27).pdf" style="text-decoration:none;">Text Book Of Trigonometry, Vector Calculus And Analytical Geometry </a></b></li>
 
 
 
