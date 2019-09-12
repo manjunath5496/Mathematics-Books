@@ -47,32 +47,31 @@
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(30).pdf" style="text-decoration:none;">Grade 11 Mathematics</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(31).pdf" style="text-decoration:none;">The Hammer and the Cross: A New History of the Vikings</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(32).pdf" style="text-decoration:none;">The Concise History of the Crusades</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(31).pdf" style="text-decoration:none;">Math tricks, Brain twisters and Puzzles</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(32).pdf" style="text-decoration:none;">Math Handbook of Formulas, Processes and Tricks</a></b></li> 
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(33).pdf" style="text-decoration:none;">A Concise History of the Middle East</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(33).pdf" style="text-decoration:none;">Mathematics: Classes 9-10</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(34).pdf" style="text-decoration:none;">Modern Indian History</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(34).pdf" style="text-decoration:none;">Cambridge IGCSE Mathematics</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(35).pdf" style="text-decoration:none;">The Oxford History of the British Empire</a></b></li> 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(36).pdf" style="text-decoration:none;">A Restatement of the History of Islam and Muslims</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(35).pdf" style="text-decoration:none;">Mathematical Methods for Physicists: A concise introduction</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(36).pdf" style="text-decoration:none;">Mathematics Made Easy for Children with Visual Impairment</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(37).pdf" style="text-decoration:none;">Religious Rivalries in the Early Roman Empire and the Rise of Christianity</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(38).pdf" style="text-decoration:none;">World History in Documents: A Comparative Reader</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(39).pdf" style="text-decoration:none;">A people's history of the world</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(40).pdf" style="text-decoration:none;">Islamic Economics: A Short History</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(41).pdf" style="text-decoration:none;">Islam: Religion, History, and Civilization </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(42).pdf" style="text-decoration:none;">Final Warning: A History of the New World Order </a></b></li>
- 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(43).pdf" style="text-decoration:none;">A History of India</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(44).pdf" style="text-decoration:none;">The Secret History of Freemasonry: Its Origins and Connection to the Knights Templar </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(45).pdf" style="text-decoration:none;">Imperium: The Philosophy of History and Politics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(37).pdf" style="text-decoration:none;">Quantitative Aptitude – 1: Vedic Maths: Addition, Subtraction, Multiplication and Squares (Answers and Explanations)</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(38).pdf" style="text-decoration:none;">Mathematics Higher Level for the IB Diploma</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(39).pdf" style="text-decoration:none;">Home Math</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(40).pdf" style="text-decoration:none;">Linear Algebra and Its Applications</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(41).pdf" style="text-decoration:none;">Schaum's Outline of Discrete Mathematics </a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(43).pdf" style="text-decoration:none;">College Algebra</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(44).pdf" style="text-decoration:none;">Schaum's outline of theory and problems of fourier analysis with applications to boundary value problems </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(45).pdf" style="text-decoration:none;">Mathematical Methods for the Physical Sciences</a></b></li>
                             
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(46).pdf" style="text-decoration:none;">English Literature: Its History and Its Significance for the Life of the English Speaking World</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(46).pdf" style="text-decoration:none;">Schaum's Outline of Probability and Statistics</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(47).pdf" style="text-decoration:none;">Islam: Faith, Practice and History </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(47).pdf" style="text-decoration:none;">Texas HSP Math Practice Workbook - Grade 3 </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(48).pdf" style="text-decoration:none;">Jews and Judaism in World History </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(48).pdf" style="text-decoration:none;">Vedic Mathematics Made Easy </a></b></li>
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(49).pdf" style="text-decoration:none;">A History of European Art</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(50).pdf" style="text-decoration:none;">A Brief History of the World </a></b></li>
